@@ -1,6 +1,5 @@
 fodase
-```
-lua
+```lua
 print("cu")
 ```
 <!---

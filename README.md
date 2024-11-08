@@ -1,6 +1,6 @@
-fodase
+
 ```lua
-print("cu")
+print("henlo")
 ```
 <!---
 BorisLua/BorisLua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
